@@ -33,7 +33,6 @@ Perfettamente integrabile in stack moderni e child-theme professionali.
     git clone https://github.com/codecorntech/wp-console-mute.git
     ```
 
-````
 
 2. Copia il file principale direttamente nella directory MU-plugins di WordPress:
 
@@ -147,4 +146,3 @@ Rilasciato sotto **MIT License** — libero uso e modifica con attribuzione.
 
 > 💬 *“Silenziare il rumore, per vedere meglio ciò che conta.”*
 > — CodeCorn™ Dev Team
-````
